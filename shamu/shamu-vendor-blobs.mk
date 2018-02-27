@@ -350,9 +350,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
+    vendor/motorola/shamu/proprietary/vendor/lib/libfacenet-32.so:system/vendor/lib/libfacenet-32.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
+    vendor/motorola/shamu/proprietary/vendor/lib/libprotobuf-cpp-preo.so:system/vendor/lib/libprotobuf-cpp-preo.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
